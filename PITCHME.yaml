@@ -1,0 +1,39 @@
+# Theme Setting
+# Doc: https://gitpitch.com/docs/settings/theme
+#
+theme : white
+
+#
+# Theme-Override Setting
+# Doc: https://gitpitch.com/docs/settings/custom-theme
+#
+theme-override: assets/css/PITCHME.css
+
+# Layout Setting
+# Doc: https://gitpitch.com/docs/settings/layout
+#
+layout : center
+
+#
+# Footnote Setting
+# Doc: https://gitpitch.com/docs/settings/footnote
+#
+footnote : "Solving Performance Problems with React & Redux DevTools"
+
+#
+# Published Setting
+# Doc: https://gitpitch.com/docs/settings/published
+#
+published : true
+
+highlight : monokai
+
+code-line-numbers : true
+
+#
+# Twitter Card Settings [Pro Only]
+# Doc: https://gitpitch.com/docs/settings/twitter-card
+#
+title : "Solving Performance Problems with React & Redux DevTools"
+description : ""
+thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png

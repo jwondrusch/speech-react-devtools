@@ -1,0 +1,6 @@
+---?include=sections/000-cover/PITCHME.md
+---?include=sections/001-intro/PITCHME.md
+---?include=sections/002-basics/PITCHME.md
+---?include=sections/003-react-devtools/PITCHME.md
+---?include=sections/004-redux-devtools/PITCHME.md
+---?include=sections/conclusion/PITCHME.md
